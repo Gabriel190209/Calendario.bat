@@ -98,4 +98,4 @@ for /l %%i in (1,1,%dias%) do (
 <br>
 
 # Melhorias
-A programação poderia ser mais rueduzida, talvez achando funções eficientes mas menores.
+A lógica de verificação de ano bissexto poderia ser simplificada usando menos camadas de if e a forma como eu calculei o próximo ano bissexto pode ser otimizada. E tambem evitar a duplicação de código onde não há necessidade, por exemplo, você verifica o mês várias vezes, pode ser otimizado.
