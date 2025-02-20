@@ -2,7 +2,7 @@
   <h1><strong>Calendários</strong></h1>
 </div>
 
- *No projeto realizado, o objetivo era realizar uma automatização através de um arquivo.bat para realizar a tarefa de criar um ano e, dentro desse ano, colocar os 12 meses e dentro desses meses a quantidade de dia especifico de cada um, após isso fazer com que seja indentificado se o mes é bissexto ou não, de tal forma que se for bissexto ele modifique o dia do mes de fevereiro.*
+ *No projeto realizado, o objetivo era realizar uma automatização através de um arquivo.bat para realizar a tarefa de criar um ano e, dentro desse ano, colocar os 12 meses e dentro desses meses a quantidade de dia especifico de cada um através de parâmetros, após isso fazer com que seja indentificado se o mes é bissexto ou não, de tal forma que se for bissexto ele modifique o dia do mes de fevereiro.*
 
 <div align="center">
   <h1><strong>Código</strong></h1>
@@ -78,7 +78,7 @@ for /l %%i in (1,1,%dias%) do (
 ```
 <br>
 
-> Aqui foi criado as variaveis que possuem a quantidade de dias de tal mes dentro do segundo parametro, para que fosse possivel a criação deles dentro da pasta com o **For (loop)** e dentro do parenteses adicionando a regra de criar desde o numero 1 (primeiro dia) até a variavel dia selecionada.
+> Aqui foi criado as variaveis que possuem a quantidade de dias de tal mes dentro do segundo parâmetro, para que fosse possivel a criação deles dentro da pasta com o **For (loop)** e dentro do parenteses adicionando a regra de criar desde o numero 1 (primeiro dia) até a variavel dia selecionada.
 
 <br>
 
@@ -93,4 +93,7 @@ for /l %%i in (1,1,%dias%) do (
   <h1><strong>Meu aprendizado</strong></h1>
 </div>
 
-- 
+- Neste projeto aprendi configurar parâmetros que servem para inserir o que eu quero dentro, como neste trabalho inseri dentro do primeiro parâmetro uma função para criar um diretório e após isso inseri outro diretório dentro do outro parâmetro;
+- Aprendi também a caucular divisão e restos da razão dentro da programação .bat;
+
+# Melhorias
