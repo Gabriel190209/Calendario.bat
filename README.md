@@ -93,7 +93,9 @@ for /l %%i in (1,1,%dias%) do (
   <h1><strong>Meu aprendizado</strong></h1>
 </div>
 
-- Neste projeto aprendi configurar parâmetros que servem para inserir o que eu quero dentro, como neste trabalho inseri dentro do primeiro parâmetro uma função para criar um diretório e após isso inseri outro diretório dentro do outro parâmetro;
-- Aprendi também a caucular divisão e restos da razão dentro da programação .bat;
+### Neste projeto aprendi configurar parâmetros que servem para inserir o que eu quero dentro, como neste trabalho inseri dentro do primeiro parâmetro uma função para criar um diretório e após isso inseri outro diretório dentro do outro parâmetro. Aprendi também a caucular divisão e restos da razão dentro da programação .bat.
+
+<br>
 
 # Melhorias
+A programação poderia ser mais rueduzida, talvez achando funções eficientes mas menores.
